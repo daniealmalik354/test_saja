@@ -92,5 +92,6 @@ ssum <- sum(sample_sums(UNDIP_prot1)); ssum
 ## Ini menytaakan ada 330 ASVs di Phylum Proteobacteria pada sample S2406
 ## Sedangkan total ASVs di phylum Proteobaceria adalah: 613
 ## Total ASVs di sample S2406 adalah 1000
-
+## Sedangkan total ASVs di phylum Proteobaceria adalah: 613
+## Total ASVs di sample S2406 adalah 1000
 ```
